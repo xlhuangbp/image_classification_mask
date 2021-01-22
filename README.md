@@ -27,3 +27,6 @@ The data used in this notebook can be found in this link (https://github.com/cab
 
 # Licences
 The licenses of MaskedFace-Net dataset: The dataset is made available under Creative Commons BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/) license by NVIDIA Corporation.
+
+# Acknowledgment
+Special thanks to Sam Witteveen and Martin Andrews from Red Dragion AI (http://reddragonai.com/) for the guidance.
