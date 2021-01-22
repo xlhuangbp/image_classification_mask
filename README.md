@@ -3,13 +3,18 @@ The purpose of this notebook is to build an image classification model to detect
 
 # 3 models were built:
 Base model using VGG architecture (without transfer learning)
+
 Using VGG architecture with transfer learning
+
 Using SVM as the classification (instead of softmax) using NASNet
 
 # Result:
 The models were evaluated based on their accuracy. The model with the best weights were saved for later prediction.
+
 Accuracy of base model = 98.477%
+
 Accuracy of model with transfer learning = 98.58%
+
 Accuracy of model with SVM = 83.9%
 
 # Data
